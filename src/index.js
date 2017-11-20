@@ -9,12 +9,12 @@ import * as firebase from 'firebase';
 
 
 var config = {
-  apiKey: "AIzaSyA92EbnKd1KgBBVPaTIfNzkbwH2DFYKYwY",
-  authDomain: "emberjs-208a3.firebaseapp.com",
-  databaseURL: "https://emberjs-208a3.firebaseio.com",
-  projectId: "emberjs-208a3",
-  storageBucket: "emberjs-208a3.appspot.com",
-  messagingSenderId: "944105123761"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 firebase.initializeApp(config);
 
